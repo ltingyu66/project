@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Mar 13 21:56:46 PDT 2020
+org.eclipse.jst.jee.server\:/binary\:/Users/tina/eclipse-workspacef/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.2.3.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/tina/eclipse-workspacef/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.2.3.RELEASE.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE.jar

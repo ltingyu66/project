@@ -1,0 +1,8 @@
+package com.luv2code.hibernate.demo;
+
+public class PrimaryKeyDemo {
+	public static void main(String[] args) {
+		
+	}
+
+}
